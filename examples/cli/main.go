@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ajanicij/goduckgo/goduckgo"
+	"github.com/misodengaku/goduckgo"
 )
 
 func main() {
